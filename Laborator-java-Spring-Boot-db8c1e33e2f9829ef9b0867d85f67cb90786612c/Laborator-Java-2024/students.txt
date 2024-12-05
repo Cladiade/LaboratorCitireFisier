@@ -1,0 +1,3 @@
+Nume,Prenume,Grupa
+Patrascu,Nicolae Adrian,4
+Popescu,Ion,3
